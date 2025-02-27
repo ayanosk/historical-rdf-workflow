@@ -40,7 +40,7 @@
 ## 問い合わせ
 バグ報告や提案がある場合は、Issue を作成してください。
 
-- 開発者:小風綾乃（[![researchmap](https://researchmap.jp/ayano_sanno)]）
+- 開発者:小風綾乃（researchmap: https://researchmap.jp/ayano_sanno)
 
 
 
