@@ -34,8 +34,8 @@
 ## RDF（Turtle形式）への変換
 
 ## ライセンス
-- コード: MIT License - [![LICENSE](https://opensource.org/licenses/MIT)]
-- ドキュメント: CC BY 4.0 - [![LICENSE](https://creativecommons.org/licenses/by/4.0/deed.ja)]
+- コード: MIT License - https://opensource.org/licenses/MIT
+- ドキュメント: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/deed.ja
 
 ## 問い合わせ
 バグ報告や提案がある場合は、Issue を作成してください。
