@@ -34,13 +34,13 @@
 ## RDF（Turtle形式）への変換
 
 ## ライセンス
-コード: MIT License - [![LICENSE](https://chatgpt.com/c/67bfce75-5818-8010-a663-b02cfd18fa41#:~:text=%3A%20MIT%20License%20%2D-,LICENSE,-%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%3A%20CC%20BY)]
-ドキュメント: CC BY 4.0 - [![LICENSE](https://chatgpt.com/c/67bfce75-5818-8010-a663-b02cfd18fa41#:~:text=CC%20BY%204.0%20%2D-,LICENSE,-%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%83%BB%E8%B2%A2%E7%8C%AE)]
+- コード: MIT License - [![LICENSE](https://opensource.org/licenses/MIT)]
+- ドキュメント: CC BY 4.0 - [![LICENSE](https://creativecommons.org/licenses/by/4.0/deed.ja)]
 
 ## 問い合わせ
 バグ報告や提案がある場合は、Issue を作成してください。
 
-開発者:小風綾乃（[![researchmap](https://researchmap.jp/ayano_sanno)]）
+- 開発者:小風綾乃（[![researchmap](https://researchmap.jp/ayano_sanno)]）
 
 
 
